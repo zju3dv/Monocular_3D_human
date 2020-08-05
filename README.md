@@ -5,15 +5,15 @@
 
  - [Single-view recovery](#single-view-recovery)
  - [2D pose to 3D pose](#2D-pose-to-3D-pose)
+ - [Video](#Video)
  - [Multi-view recovery](#Multi-view-recovery)
  - [Multi-person](#Multi-person)
- - [Other input](#Other-input)
  - [Detailed geometry](#Detailed-geometry)
  - [Self-supervise/ weak supervise](#Self-supervise/-weak-supervise)
  - [Interaction with scene](#Interaction-with-scene)
  - [Total capture](#Total-capture)
- - [Video](#Video)
  - [Future prediction](#Future-prediction)
+ - [Other input](#Other-input)
  - [Others](#Others)
 
 
@@ -34,6 +34,15 @@
  - [ICCV2019], Hai Ci et al., Optimizing Network Structure for 3D Human Pose Estimation
  - [CVPR2019], Dario Pavllo et al., 3D Human Pose Estimation in Video With Temporal Convolutions and Semi-Supervised Training
  
+ 
+## Video
+
+ - [CVPR2020] Muhammed Kocabas et al., VIBE: Video Inference for Human Body Pose and Shape Estimation 
+ - [CVPR2019] Angjoo Kanazawa et al., Learning 3D Human Dynamics from Video
+ - [ICCV2019], Jason Y. Zhang et al., Predicting 3D Human Dynamics from Video
+ - [ICCV2019], Yu Sun et al., Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation
+ - [CVPR2019], Anurag Arnab et al., Exploiting temporal context for 3D human pose estimation in the wild 
+
 ## Multi-view recovery
 
  - [ICCV2019], Nitin Saini et al., Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles
@@ -103,13 +112,7 @@
  - [CVPR2019] Donglai Xiang et al., Monocular Total Capture: Posing Face, Body and Hands in the Wild
  - [CVPR2019] Georgios Pavlakos et al., Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
  
-## Video
 
- - [CVPR2020] Muhammed Kocabas et al., VIBE: Video Inference for Human Body Pose and Shape Estimation 
- - [CVPR2019] Angjoo Kanazawa et al., Learning 3D Human Dynamics from Video
- - [ICCV2019], Jason Y. Zhang et al., Predicting 3D Human Dynamics from Video
- - [ICCV2019], Yu Sun et al., Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation
- - [CVPR2019], Anurag Arnab et al., Exploiting temporal context for 3D human pose estimation in the wild
  
 ## Future prediction
  - [ICCV2019] Zhi Li et al., On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos
