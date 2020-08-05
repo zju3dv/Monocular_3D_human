@@ -60,6 +60,7 @@
  - [CVPR2020] Matteo Fabbri et al., Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
  - [CVPR2020] Abdallah Benzine et al., PandaNet : Anchor-Based Single-Shot Multi-Person 3D Pose Estimation
  - [CVPR2020] Wen Jiang et al., Coherent Reconstruction of Multiple Humans From a Single Image
+ - [ECCV2020] Junting Dong et al., Motion Capture from Internet Videos
 
 ## Other input
 
