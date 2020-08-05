@@ -1,6 +1,23 @@
 # Paper list of monocular 3D human pose and shape estimation
 
-## single-view recovery
+
+## Table of Contents
+
+ - [Single-view recovery](#single-view-recovery)
+ - [2D pose to 3D pose](#2D-pose-to-3D-pose)
+ - [Multi-view recovery](#Multi-view-recovery)
+ - [Multi-person](#Multi-person)
+ - [Other input](#Other-input)
+ - [Detailed geometry](#Detailed-geometry)
+ - [Self-supervise/ weak supervise](#Self-supervise/-weak-supervise)
+ - [Interaction with scene](#Interaction-with-scene)
+ - [Total capture](#Total-capture)
+ - [Video](#Video)
+ - [Future prediction](#Future-prediction)
+ - [Others](#Others)
+
+
+## Single-view recovery
 
  - [ICCV2019]，Georgios Pavlakos et al，TexturePose: Supervising Human Mesh Estimation with Texture Consistency
  - [ICCV2019], Nikos Kolotouros et al., Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop
@@ -26,10 +43,9 @@
  - [CVPR2019], Junting Dong et al., Fast and Robust Multi-Person 3D Pose Estimation From Multiple Views
  - [CVPR2020], Yuxiang Zhang et al., 4D Association Graph for Realtime Multi-Person Motion Capture Using Multiple Video Cameras
 
-## multi-person
+## Multi-person
 
  - [CVPR2020] Mihai Fieraru et al., Three-dimensional Reconstruction of Human Interactions
- 
  - [(SIGGRAPH) 2020] Dushyant Mehta et al., XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera
  - [ICCV 2019] Gyeongsik Moon et al., Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image
  - [CVPR2020] Matteo Fabbri et al., Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
@@ -41,7 +57,7 @@
  - [ICCV2019], Haiyong Jiang et al., Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds
  - [ICCV2019], Denis Tome et al., xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera
  
-## detailed geometry
+## Detailed geometry
  
  - [CVPR2020] Shunsuke Saito et al., PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
  - [ICCV2019] Shunsuke Saito et al., PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
@@ -71,7 +87,7 @@
  - [CVPR2019], Bastian Wandt et al., RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
  
  
-## interaction with scene
+## Interaction with scene
 
  - [ICCV 2019] Mohamed Hassan et al., Resolving 3D Human Pose Ambiguities with 3D Scene Constraints 
  - [ICCV 2019] Yixin Chen et al., Holistic++ Scene Understanding: Single-view 3D Holistic Scene Parsing and Human Pose Estimation with Human-Object Interaction and Physical Commonsense 
@@ -85,15 +101,13 @@
 ## Total capture
 
  - [CVPR2019] Donglai Xiang et al., Monocular Total Capture: Posing Face, Body and Hands in the Wild
- - 
+ - [CVPR2019] Georgios Pavlakos et al., Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
  
-## video
+## Video
 
  - [CVPR2020] Muhammed Kocabas et al., VIBE: Video Inference for Human Body Pose and Shape Estimation 
- 
  - [CVPR2019] Angjoo Kanazawa et al., Learning 3D Human Dynamics from Video
  - [ICCV2019], Jason Y. Zhang et al., Predicting 3D Human Dynamics from Video
- 
  - [ICCV2019], Yu Sun et al., Human Mesh Recovery from Monocular Images via a Skeleton-disentangled Representation
  - [CVPR2019], Anurag Arnab et al., Exploiting temporal context for 3D human pose estimation in the wild
  
