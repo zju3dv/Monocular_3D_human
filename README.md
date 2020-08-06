@@ -70,6 +70,7 @@
  
 ## Detailed geometry
  
+ - [ECCV2020] Luyang Zhu et al., Reconstructing NBA Players
  - [CVPR2020] Shunsuke Saito et al., PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
  - [ICCV2019] Shunsuke Saito et al., PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
  - [ICCV2019], Zerong Zheng et al., DeepHuman: 3D Human Reconstruction From a Single Image
