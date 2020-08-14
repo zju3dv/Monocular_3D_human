@@ -19,6 +19,8 @@
 
 ## Single-view recovery
 
+ - [ECCV2020]，I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image
+ - [CVPR2020]，3D Human Mesh Regression with Dense Correspondence
  - [ICCV2019]，Georgios Pavlakos et al，TexturePose: Supervising Human Mesh Estimation with Texture Consistency
  - [ICCV2019], Nikos Kolotouros et al., Learning to Reconstruct 3D Human Pose and Shape via Model-Fitting in the Loop
  - [ICCV2019], Saurabh Sharma et al., Monocular 3D Human Pose Estimation by Generation and Ordinal Ranking
