@@ -15,6 +15,11 @@
  - [Future prediction](#Future-prediction)
  - [Other input](#Other-input)
  - [Others](#Others)
+ - [3D Hands](#3D Hands)
+
+## 3D Hands
+
+ - [CVPR2020]，Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
 
 
 ## Single-view recovery
@@ -71,7 +76,8 @@
  - [ICCV2019], Denis Tome et al., xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera
  
 ## Detailed geometry
- 
+ - [ECCV2020] CLOTH3D: Clothed 3D Humans
+ - [ECCV2020] Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction
  - [ECCV2020] Luyang Zhu et al., Reconstructing NBA Players
  - [CVPR2020] Shunsuke Saito et al., PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization
  - [ICCV2019] Shunsuke Saito et al., PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization
@@ -120,6 +126,7 @@
 
  
 ## Future prediction
+ - [ECCV2020] Long-term Human Motion Prediction with Scene Context
  - [ICCV2019] Zhi Li et al., On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos
  - [ICCV2019] A. Hernandez Ruiz et al., Human Motion Prediction via Spatio-Temporal Inpainting
  - [ICCV2019] Emre Aksan et al., Structured Prediction Helps 3D Human Motion Modelling
