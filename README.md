@@ -15,11 +15,8 @@
  - [Future prediction](#Future-prediction)
  - [Other input](#Other-input)
  - [Others](#Others)
- - [3D Hands](#3D Hands)
+ - [3D Hands](#3D-Hands)
 
-## 3D Hands
-
- - [CVPR2020]，Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
 
 
 ## Single-view recovery
@@ -140,3 +137,10 @@
  - [ICCV19] Yu Rong et al., Delving Deep Into Hybrid Annotations for 3D Human Recovery in the Wild 
  - [CVPR19] Chung-Yi Weng et al., Photo Wake-Up: 3D Character Animation from a Single Phot
  - [CVPR2019] Rohit Pandey et al. Volumetric Capture of Humans with a Single RGBD Camera via Semi-Parametric Learning
+
+
+## 3D-Hands
+
+ - [CVPR2020]，Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild
+
+
