@@ -111,7 +111,7 @@
 
 ## Self-supervise/ weak supervise
 
-- [CVPR2021] Bastian Wand et al., CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild
+- [CVPR2021] Bastian Wandt et al., CanonPose: Self-Supervised Monocular 3D Human Pose Estimation in the Wild
 
  - [CVPR2019] Muhammed Kocabas et al., Self-Supervised Learning of 3D Human Pose using Multi-view Geometry
  - [CVPR2019], Bastian Wandt et al., RepNet: Weakly Supervised Training of an Adversarial Reprojection Network for 3D Human Pose Estimation
