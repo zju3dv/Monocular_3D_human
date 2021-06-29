@@ -63,7 +63,13 @@
  - [CVPR2019], Junting Dong et al., Fast and Robust Multi-Person 3D Pose Estimation From Multiple Views
 
 ## Multi-person
-
+ 
+ - [CVPR2021] Yu Cheng et al., Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks
+ - [AAAI2021] Yu Cheng et al., Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos
+ - [ECCV2020] Jianan Zhen et al., SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation
+ - [ECCV2020] Jogendra Nath Kundu et al., Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation
+ - [ECCV2020] Jiefeng Li et al., HMOR: Hierarchical Multi-Person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation
+ - [ECCV2020] Jiahao Lin et al., HDNet: Human Depth Estimation for Multi-Person Camera-Space Localization
  - [CVPR2020] Mihai Fieraru et al., Three-dimensional Reconstruction of Human Interactions
  - [(SIGGRAPH) 2020] Dushyant Mehta et al., XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera
  - [CVPR2020] Matteo Fabbri et al., Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation
